@@ -2,7 +2,7 @@
 
 [![PyPI version](https://badge.fury.io/py/CrowdTruth.svg)](https://badge.fury.io/py/CrowdTruth) [![Build Status](https://travis-ci.org/CrowdTruth/CrowdTruth-core.svg?branch=master)](https://travis-ci.org/CrowdTruth/CrowdTruth-core) [![codecov](https://codecov.io/gh/CrowdTruth/CrowdTruth-core/branch/master/graph/badge.svg)](https://codecov.io/gh/CrowdTruth/CrowdTruth-core) [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/CrowdTruth/CrowdTruth-core/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/CrowdTruth/CrowdTruth-core/?branch=master) 
 
-This library processes crowdsourcing results from Amazon Mechanical Turk and CrowdFlower following the CrowdTruth methodology. A full description of the metrics is available [in this paper](https://arxiv.org/abs/1808.06080). For more information see http://crowdtruth.org.
+This library processes crowdsourcing results from Amazon Mechanical Turk and CrowdFlower following the CrowdTruth methodology. A full description of the metrics is available [in this paper](https://arxiv.org/abs/1808.06080).
 
 If you use this software in your research, please consider citing:
 
